@@ -1,0 +1,7 @@
+dspy-ai
+clingo
+fuzzywuzzy
+python-Levenshtein
+torch
+requests
+numpy
